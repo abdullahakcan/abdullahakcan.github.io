@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+
+}
+body{
+    background-image: url("img/Arkaplan.jpg");
+    background-size: cover;
+    color: aliceblue;
+}
+.ust{
+    height: 100px;
+    position: sticky;
+    top: 0px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    margin: auto;
+    background-color: rgb(90, 173, 218);
+
+}
+.logo img{
+    height: 90px;
+    width: 280px;
+}
+.logo{
+    height: 100px;
+    float: left;
+    line-height: 100px;
+    padding-left: 60px;
+}
+nav{
+    height: 100px;
+    float: right;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    line-height: 100px;
+    margin-right: 50px;
+}
+nav a:hover{
+    text-decoration-line: underline;
+    border-top: 1px solid rgb(255, 255, 255);
+}
+.baslik{
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 80px;
+}
+ul{
+    line-height: 50px;
+    margin-left: 30px;
+    text-align: center;
+}
+.kutu{
+    width: 400px;
+    margin: auto;
+    border-left:2px solid black ;
+    background: rgba(0, 0, 0, .4);
+    color: aliceblue;
+}
+a img{
+    padding-right: 20px;
+    width: 30px;
+    height: 30px;
+    margin: auto;
+}
+.link{
+    height: 200px;
+    height: 100px;
+    margin: auto;
+    border: 1px solid red;
+}

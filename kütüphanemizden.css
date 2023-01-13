@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+
+}
+.ust{
+    height: 100px;
+    position: sticky;
+    top: 0px;
+    border-bottom: 1px solid brown;
+    margin: auto;
+    background-color: rgb(198, 61, 61);
+
+}
+.logo img{
+    height: 90px;
+    width: 280px;
+}
+.logo{
+    height: 100px;
+    float: left;
+    line-height: 100px;
+    padding-left: 60px;
+}
+nav{
+    height: 100px;
+    float: right;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    line-height: 100px;
+    margin-right: 50px;
+}
+nav a:hover{
+    text-decoration-line: underline;
+    border-top: 1px solid rgb(255, 255, 255);
+}
+.kutu{
+    width: 1200px;
+    height: 175px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    margin-top: 30px;
+    border-bottom: 1px solid brown;
+    text-align: center;
+    padding-left: 30px;
+}
+.kutu img{
+    float: left;
+    width: 100px;
+    height: 150px;
+    border-radius: 10px;
+    border: 1px solid brown;
+    padding-right: 30px;
+}

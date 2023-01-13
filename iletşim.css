@@ -1,0 +1,41 @@
+body{
+    background-image: url("img/kapak.png");
+    background-size:cover ;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.kutu{
+    width: 500px;
+    height: 1000px;
+    text-align: center;
+    color: brown;
+    border: 1px solid black;
+    background: rgba(0, 0, 0, 0.8);
+    border-right: 4px solid rgb(255, 255, 255);
+    line-height: 40px;
+
+}
+table{
+    margin:auto;
+}
+a img{
+    padding-right: 20px;
+    width: 30px;
+    height: 30px;
+    margin: auto;
+    margin-top: 50px;
+}
+ .resim img{
+    width:300px ;
+    height: 100px;
+}
+.resim{
+    width:300px ;
+    height: 100px;;
+    margin: auto;
+    margin-top:350px ;
+}
+
